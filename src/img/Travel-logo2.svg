@@ -5,9 +5,6 @@
 <defs>
 </defs>
 <rect x="0" y="0" width="100%" height="100%" fill="transparent"></rect>
-<g transform="matrix(1 0 0 1 640 360)" id="c1ea87bc-7538-45d9-94ed-b2ce35b86dd6"  >
-	<image style="stroke: none; stroke-width: 0; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  xlink:href="" x="-480" y="-270" width="960" height="540"></image>
-</g>
 <g transform="matrix(1 0 0 1 640 360)" id="dd3cb51c-f6c1-4aed-9027-a9cff7c354d1"  >
 <rect style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,255,255); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  x="-640" y="-360" rx="0" ry="0" width="1280" height="720" />
 </g>
@@ -29,7 +26,7 @@
 </g>
 </g>
 </g>
-<g transform="matrix(1 0 0 1 640 360)" style="filter: url(#SVGID_109);" id="85a2505b-a22c-4c35-a339-2b689a1e4c26"  >
+<g transform="matrix(1 0 0 1 640 360.84)" style="filter: url(#SVGID_109);" id="85a2505b-a22c-4c35-a339-2b689a1e4c26"  >
 <filter id="SVGID_109" y="-20%" height="140%" x="-20%" width="140%" >
 	<feGaussianBlur in="SourceAlpha" stdDeviation="0"></feGaussianBlur>
 	<feOffset dx="0" dy="0" result="oBlur" ></feOffset>
@@ -41,9 +38,9 @@
 	</feMerge>
 </filter>
 		<rect opacity="0" fill="rgb(0,0,0)" x="-609.86" y="-90.4" width="1219.73" height="180.8"></rect>
-		<text xml:space="preserve" font-family="Alegreya" font-size="80" font-style="normal" font-weight="900" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 0.66; white-space: pre;" ><tspan x="-121.53" y="-20.07" >T</tspan><tspan x="-73.71" y="-20.07" >r</tspan><tspan x="-37.8" y="-20.07" >a</tspan><tspan x="2.6" y="-20.07" >v</tspan><tspan x="43" y="-20.07" >e</tspan><tspan x="78.91" y="-20.07" >l</tspan><tspan x="101.53" y="-20.07" style="white-space: pre; "> </tspan><tspan x="-208.62" y="70.33" >E</tspan><tspan x="-154.86" y="70.33" >x</tspan><tspan x="-114.46" y="70.33" >p</tspan><tspan x="-69.57" y="70.33" >e</tspan><tspan x="-33.66" y="70.33" >r</tspan><tspan x="2.25" y="70.33" >i</tspan><tspan x="24.87" y="70.33" >e</tspan><tspan x="60.78" y="70.33" >n</tspan><tspan x="105.67" y="70.33" >c</tspan><tspan x="141.58" y="70.33" >e</tspan><tspan x="177.49" y="70.33" >s</tspan></text>
+		<text xml:space="preserve" font-family="Alegreya" font-size="80" font-style="normal" font-weight="900" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 0.78; white-space: pre;" ><tspan x="-121.53" y="-20.07" >T</tspan><tspan x="-73.71" y="-20.07" >r</tspan><tspan x="-37.8" y="-20.07" >a</tspan><tspan x="2.6" y="-20.07" >v</tspan><tspan x="43" y="-20.07" >e</tspan><tspan x="78.91" y="-20.07" >l</tspan><tspan x="101.53" y="-20.07" style="white-space: pre; "> </tspan><tspan x="-208.62" y="70.33" >E</tspan><tspan x="-154.86" y="70.33" >x</tspan><tspan x="-114.46" y="70.33" >p</tspan><tspan x="-69.57" y="70.33" >e</tspan><tspan x="-33.66" y="70.33" >r</tspan><tspan x="2.25" y="70.33" >i</tspan><tspan x="24.87" y="70.33" >e</tspan><tspan x="60.78" y="70.33" >n</tspan><tspan x="105.67" y="70.33" >c</tspan><tspan x="141.58" y="70.33" >e</tspan><tspan x="177.49" y="70.33" >s</tspan></text>
 </g>
-<g transform="matrix(1 0 0 1 640 476.15)" style="" id="be18acb0-1225-48c4-af56-a6ecb244bb98"  >
+<g transform="matrix(1 0 0 1 665.37 476.15)" style="" id="be18acb0-1225-48c4-af56-a6ecb244bb98"  >
 		<text xml:space="preserve" font-family="Lato" font-size="40" font-style="normal" font-weight="900" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 0.66; white-space: pre;" ><tspan x="-95.03" y="12.57" >with Nabin</tspan></text>
 </g>
 </svg>
