@@ -10,7 +10,7 @@
 </g>
 <g transform="matrix(Infinity NaN NaN Infinity 0 0)" id="e1296a88-78ff-44da-a242-2f53c5fb68d4"  >
 </g>
-<g transform="matrix(9.16 0 0 9.16 625.76 360)"  >
+<g transform="matrix(6.13 0 0 6.13 640 398.77)"  >
 <g style="opacity: 0.37;" vector-effect="non-scaling-stroke"   >
 		<g transform="matrix(1 0 0 1 0 0)"  >
 <path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(101,101,101); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-50, -50)" d="M 50 12.774 C 29.425 12.774 12.773000000000003 29.424999999999997 12.773000000000003 50.001 C 12.773000000000003 70.524 29.424000000000003 87.227 50 87.227 C 70.526 87.227 87.227 70.524 87.227 50.001000000000005 C 87.227 29.425 70.526 12.774 50 12.774 z M 50 83.906 C 31.236 83.906 16.094 68.714 16.094 50.00000000000001 C 16.094 31.236000000000008 31.236 16.09400000000001 50 16.09400000000001 C 68.714 16.09400000000001 83.906 31.236000000000008 83.906 50.00000000000001 C 83.906 68.714 68.714 83.906 50 83.906 z" stroke-linecap="round" />
@@ -26,7 +26,7 @@
 </g>
 </g>
 </g>
-<g transform="matrix(1 0 0 1 640 360.84)" style="filter: url(#SVGID_109);" id="85a2505b-a22c-4c35-a339-2b689a1e4c26"  >
+<g transform="matrix(1 0 0 1 642.2 360)" style="filter: url(#SVGID_109);" id="85a2505b-a22c-4c35-a339-2b689a1e4c26"  >
 <filter id="SVGID_109" y="-20%" height="140%" x="-20%" width="140%" >
 	<feGaussianBlur in="SourceAlpha" stdDeviation="0"></feGaussianBlur>
 	<feOffset dx="0" dy="0" result="oBlur" ></feOffset>
@@ -37,10 +37,10 @@
 		<feMergeNode in="SourceGraphic"></feMergeNode>
 	</feMerge>
 </filter>
-		<rect opacity="0" fill="rgb(0,0,0)" x="-609.86" y="-90.4" width="1219.73" height="180.8"></rect>
-		<text xml:space="preserve" font-family="Alegreya" font-size="80" font-style="normal" font-weight="900" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 0.78; white-space: pre;" ><tspan x="-121.53" y="-20.07" >T</tspan><tspan x="-73.71" y="-20.07" >r</tspan><tspan x="-37.8" y="-20.07" >a</tspan><tspan x="2.6" y="-20.07" >v</tspan><tspan x="43" y="-20.07" >e</tspan><tspan x="78.91" y="-20.07" >l</tspan><tspan x="101.53" y="-20.07" style="white-space: pre; "> </tspan><tspan x="-208.62" y="70.33" >E</tspan><tspan x="-154.86" y="70.33" >x</tspan><tspan x="-114.46" y="70.33" >p</tspan><tspan x="-69.57" y="70.33" >e</tspan><tspan x="-33.66" y="70.33" >r</tspan><tspan x="2.25" y="70.33" >i</tspan><tspan x="24.87" y="70.33" >e</tspan><tspan x="60.78" y="70.33" >n</tspan><tspan x="105.67" y="70.33" >c</tspan><tspan x="141.58" y="70.33" >e</tspan><tspan x="177.49" y="70.33" >s</tspan></text>
+		<rect opacity="0" fill="rgb(0,0,0)" x="-514.2" y="-90.4" width="1028.41" height="180.8"></rect>
+		<text xml:space="preserve" font-family="Alegreya" font-size="80" font-style="normal" font-weight="700" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 0.78; white-space: pre;" ><tspan x="-112.04" y="-20.07" >T</tspan><tspan x="-67.24" y="-20.07" >r</tspan><tspan x="-34.76" y="-20.07" >a</tspan><tspan x="3.08" y="-20.07" >v</tspan><tspan x="39.72" y="-20.07" >e</tspan><tspan x="76.68" y="-20.07" >l</tspan><tspan x="98.12" y="-20.07" style="white-space: pre; "> </tspan><tspan x="-206.16" y="70.33" >E</tspan><tspan x="-158.08" y="70.33" >x</tspan><tspan x="-118" y="70.33" >p</tspan><tspan x="-74.64" y="70.33" >e</tspan><tspan x="-37.28" y="70.33" >r</tspan><tspan x="-4" y="70.33" >i</tspan><tspan x="19.76" y="70.33" >e</tspan><tspan x="57.12" y="70.33" >n</tspan><tspan x="102.48" y="70.33" >c</tspan><tspan x="136.16" y="70.33" >e</tspan><tspan x="173.52" y="70.33" >s</tspan></text>
 </g>
-<g transform="matrix(1 0 0 1 665.37 476.15)" style="" id="be18acb0-1225-48c4-af56-a6ecb244bb98"  >
-		<text xml:space="preserve" font-family="Lato" font-size="40" font-style="normal" font-weight="900" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 0.66; white-space: pre;" ><tspan x="-95.03" y="12.57" >with Nabin</tspan></text>
+<g transform="matrix(1 0 0 1 640 475.32)" style="" id="be18acb0-1225-48c4-af56-a6ecb244bb98"  >
+		<text xml:space="preserve" font-family="Lato" font-size="40" font-style="normal" font-weight="400" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-95.56" y="12.57" >with Nabin</tspan></text>
 </g>
 </svg>
